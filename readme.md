@@ -1,0 +1,1 @@
+based off https://github.com/kevquirk/simple.css/blob/main/simple-v1.css
