@@ -2,7 +2,7 @@
 
 A css add-on you to make your website as unappealing as possible while remaining usable.
 
-> Note: LSD.css is recommended to be used with an existing website, it does not provide any other styling than random colors
+> Note: LSD.css is recommended to be used with existing styling(eg. [PicoCSS](https://picocss.com)), it does not provide any other styling than random colors
 
 [Preview](https://enorsu.github.io/lsd.css/DEMO.html)(flash warning)
 
